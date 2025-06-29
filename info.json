@@ -1,0 +1,33 @@
+{
+  "name": "Buck Norris",
+  "symbol": "BUCK",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Buck Norris is a meme coin with a punch. Inspired by Chuck, driven by the community. No mercy, only gains.",
+  "website": "https://www.bucknorris.com",
+  "explorer": "https://bscscan.com/token/0x909ec2E99f0A8E5BF9C3bf2F7A5aCC44026D4dd3",
+  "status": "active",
+  "id": "0x909ec2E99f0A8E5BF9C3bf2F7A5aCC44026D4dd3",
+  "links": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/bucknorriscoin"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/bucknorriscoin"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/bucknorriscoin"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/currencies/buck-norris"
+    },
+    {
+      "name": "GeckoTerminal",
+      "url": "https://www.geckoterminal.com/bsc/pools/0x..."
+    }
+  ]
+}
